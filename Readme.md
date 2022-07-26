@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Антон Никулин](https://up.htmlacademy.ru/adaptive/26/user/375363).
-* Наставник: `Неизвестно`.
+* Наставник: [Arthur Litovko](https://htmlacademy.ru/profile/id6927).
 
 ---
 
